@@ -29,6 +29,10 @@ A comparison of different libraries for dataframe manipulation and big data anal
 
 ## Useful tech stack
 
+Data format framework
 - [Apache Arrow](https://arrow.apache.org/) (for in-memory columnar)
 - [Apache Parquet](https://parquet.apache.org/) (for on-disk storage columnar)
 - [Apache Arrow vs Apache Parquet](https://www.youtube.com/watch?v=dPb2ZXnt2_U&ab_channel=DataWorksSummit)
+
+Streaming framework
+- [Apache Storm](https://storm.apache.org/)
