@@ -1,6 +1,6 @@
-(ns clojure-dataframe.core-test
+(ns tech-ml-dataset-cookbook.core-test
   (:require [clojure.test :refer :all]
-            [clojure-dataframe.core :refer :all]))
+            [tech-ml-dataset-cookbook.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

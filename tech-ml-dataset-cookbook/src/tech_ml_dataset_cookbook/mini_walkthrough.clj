@@ -1,4 +1,4 @@
-(ns clojure-dataframe.tech-ml-dataset
+(ns tech-ml-dataset-cookbook.mini-walkthrough
     (:require [tech.v3.dataset :as ds]
               [tech.v3.libs.poi :refer :all])
     (:gen-class))
