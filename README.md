@@ -25,7 +25,7 @@ A comparison of different libraries for dataframe manipulation and big data anal
 
 ## Performance benchmarks
 
-See [ranking](https://github.com/zero-one-group/geni-performance-benchmark/)
+- [Rankings](https://github.com/zero-one-group/geni-performance-benchmark/) for each library in Python / Julia / Clojure
 
 ## Useful tech stack
 
