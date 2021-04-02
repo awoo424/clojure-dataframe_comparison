@@ -4,7 +4,8 @@
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.10.1"]
-                 [techascent/tech.ml.dataset "5.13"]]
+                 [techascent/tech.ml.dataset "5.13"]
+                 [zero.one/geni "0.0.38"]]
   :main ^:skip-aot clojure-dataframe.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all
